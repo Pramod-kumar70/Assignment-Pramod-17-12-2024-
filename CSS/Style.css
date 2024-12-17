@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Times New Roman";
+}
+.BgColor1{
+    background-color: #4C4C4C;
+    color: white;
+}
+.FontSize1{
+    font-size: 53px;
+}
+.BgCardColor{
+    background-color: #F4F4F4;
+}
+.scrolling-wrapper{
+    overflow-x: auto;
+    
+}
+
+
+
+.BgColor3{
+    background-color: #F4F4F4;
+}
+.BgColor6{
+    background-color: #F4F4F4;
+}
+
+.points{
+    padding: 6px;
+}
+
+@media (min-width: 576px) {
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+.bgg-clr {
+    background-color: #f4f4f4;
+
+}
+
+.txtt-fnt {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.ftt-sizz {
+    font-size: 60px;
+}
+
+/* <!-- ....................................... SECTION - END........................................... --> */
+
+
+.your-gmml {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+    height: 47px;
+    width: 270px;
+}
+.bttnmm{
+
+    font-size: 20px;
+    border-radius: 20px;
+    height: 55px;
+    width: 200px;
+}
+.bttnmm:hover{
+    background-color: black;
+    color: white;
+
+    border-radius: 20px;
+    height: 55px;
+    width: 200px;
+}
+::placeholder{
+    color: white;
+}
